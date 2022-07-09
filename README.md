@@ -6,8 +6,8 @@ Please add [CVX](http://cvxr.com/cvx/), the [Chebfun](https://www.chebfun.org/) 
 
 [1] COMPUTING A QUANTITY OF INTEREST FROM OBSERVATIONAL DATA
 by R. DeVore, S. Foucart, G. Petrova, P. Wojtaszczyk. 
-Codes are available at https://www.math.tamu.edu/~foucart/papers.html.
-The zip file (reproducible+supplement) also contains CVX
+Codes are available at https://www.math.tamu.edu/~foucart/papers.html (item 31).
+The zip file (reproducible+supplement) also contains CVX.
 
 # Sphere
 Please add the sphere_approx_toolbox_v3.0 (can be found in this repository) onto path before running the codes.
